@@ -20,7 +20,7 @@
 }
 
 .ansh-logo{
-    background-image: url("imgshop/logo.jpg.jpg");
+    background-image: url("./imgshop/logo.jpg.jpg");
     background-size: cover;
     height: 70px;
     width: 250px;
@@ -106,7 +106,7 @@ font-weight: 700;}
     font-weight: 700;
 
 }
-.hero_ansh{ background-image:url("imgshop/electronics.jpg.jpg");
+.hero_ansh{ background-image:url("./imgshop/electronics.jpg.jpg");
     background-size: cover;
      height: 400px;
 display: flex;
